@@ -1,0 +1,5 @@
+En este ejercicio, se pretende crear un programa que interactúe con el usuario para obtener una fecha. El usuario ingresará la fecha en un formato específico, y el programa mostrará la fecha completa junto con una verificación de su validez. Esto es útil para comprender cómo se puede recopilar información del usuario, procesarla y realizar comprobaciones para garantizar que los datos sean correctos.
+
+El programa se diseñará de manera que el usuario proporcione una fecha que consista en el día, el mes y el año. Luego, el código verificará si la fecha es válida, considerando factores como los días en un mes específico y si el año es bisiesto o no. Una vez que se haya realizado la validación, el programa mostrará la fecha completa con un mensaje indicando si la fecha es correcta o no.
+
+Este ejercicio no solo aborda la interacción básica con el usuario, sino que también involucra la lógica de programación para evaluar la corrección de la fecha ingresada. Es un punto de partida ideal para aprender sobre entrada de datos, procesamiento y validación en la programación.
